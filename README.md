@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Yashika-1705
-- 👀 I’m interested in learning more about computer science and gaining skills through github communities.
-- 🌱 I’m currently a first year student, learning computer science at University of Toronto Mississauga(UTM)
-- 😄 Pronouns: she/her
+# Hi, I'm Yashika Jain 👋
 
-<!---
-Yashika-1705/Yashika-1705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a third-year **Computer Science student at the University of Toronto**, passionate about **AI, machine learning, and building impactful projects**. I love **hands-on learning** and collaborating in **open-source and GitHub communities**.
+
+- 🔭 Currently exploring **AI-powered tools, cloud deployments, and full-stack projects**
+- 🌱 Actively learning **advanced programming, cloud platforms, and AI/ML techniques**
+- 💬 Pronouns: she/her
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/yashika-jain/)
